@@ -7,10 +7,10 @@
 <p>Adicione quantos nomes quiser, depois clique em sortear e pronto!<p/>
 <p>Fique á vontade para iniciar um novo sorteio, basta clicar no campo de input para digitar os nomes novamente, em seguida ir adicionando á lista para um novo sorteio!</p>
 <h1>:mag_right:Funcionalidades:</h1>
-<p>Adiciona os nomes a lista</p>
-<p>Exibe a lista dos nomes em tempo real</p>
-<p>Realiza o sorteio aleatório de um nome da lista</p>
-<p>Após realizar um sorteio, ao clicar no campo para digitar novos nomes, o jogo reinicia automaticamente, permitindo sortear um novo nome </p>
+<p>• Adiciona os nomes a lista</p>
+<p>• Exibe a lista dos nomes em tempo real</p>
+<p>• Realiza o sorteio aleatório de um nome da lista</p>
+<p>• Após realizar um sorteio, ao clicar no campo para digitar novos nomes, o jogo reinicia automaticamente, permitindo sortear um novo nome </p>
 
 # Programações utilizadas no projeto:
 - `JavaScript`
