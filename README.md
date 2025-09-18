@@ -2,8 +2,7 @@
 <h2 align="center">Sortear o amigo secreto aleatoriamente no navegador🎰</h2>
 <p>Este projeto é o Challenge Amigo Secreto da primeira parte da formação em programação da ONE Oracle Next em parceria com Alura. com fim de criar uma aplicação em JavaScript que possa realizar sorteios de amigo secreto sem precisar instalar nada.</p> 
 
-<p align="center"> <img width="600" height="750" alt="amigo-secreto-challenge-img" src="https://github.com/user-attachments/assets/a7b9be59-81a1-41da-9bfb-629f876e5e43" />
-
+<p align="center"> <img width="600" height="750" alt="amigo-secreto-challenge-img" src="https://i.imgur.com/Ac9C1Dj.png"/>
 <p>Escreva alguns nomes e veja a mágica acontecer<p/>
 <p>Faça quantos sorteios quiser, em seguida ir adicionando á lista para um novo sorteio!</p>
 
