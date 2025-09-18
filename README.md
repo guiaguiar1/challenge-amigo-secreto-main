@@ -1,4 +1,4 @@
-<h1 align="center">:Jogo do Amigo Secreto Online</h1>
+<h1 align="center">:Jogo do Amigo Secreto</h1>
 <h2 align="center">Aplicação web para sortear o Amigo Secreto diretamente no navegador.</h2>
 <p>Este projeto se trata do Challenge Amigo Secreto da 1ª parte da formação em programação da ONE Oracle Next em parceria com Alura. O objetivo é criar uma aplicação em JavaScript que possa realizar sorteios de amigo secreto sem precisar instalar nada.</p> 
 
